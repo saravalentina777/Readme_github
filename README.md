@@ -54,3 +54,5 @@ $$
 x - 2^4 + y 
 $$ 
 
+![Foto 1](nonodislike.jfif)
+![Gif 1](jueves de racismo.gif)
